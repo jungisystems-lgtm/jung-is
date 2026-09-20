@@ -7,4 +7,4 @@ This repository has two top-level directories:
 
 To run the website, change into frontend/ and follow its README. To run the API, change into backend/ and follow its README. Each application keeps its own local dependencies and environment file.
 
-The Git repository uses the main branch and the [GitHub remote](https://github.com/jungisystems-lgtm/jung). See the [Git guide](GIT-README.md) for cloning, committing, and publishing changes.
+The Git repository uses the main branch and the [GitHub remote](https://github.com/jungisystems-lgtm/jung-is). See the [Git guide](GIT-README.md) for cloning, committing, and publishing changes.

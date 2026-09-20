@@ -2,15 +2,15 @@
 
 The repository root contains frontend/ and backend/. Both applications share one Git history on the main branch.
 
-- GitHub remote: [jungisystems-lgtm/jung](https://github.com/jungisystems-lgtm/jung)
+- GitHub remote: [jungisystems-lgtm/jung-is](https://github.com/jungisystems-lgtm/jung-is)
 - Remote name: origin
 - Default working branch: main
 
 ## Clone on another machine
 
 ```powershell
-git clone https://github.com/jungisystems-lgtm/jung.git
-cd jung
+git clone https://github.com/jungisystems-lgtm/jung-is.git
+cd jung-is
 ```
 
 Follow [frontend/README.md](frontend/README.md) and [backend/README.md](backend/README.md) to install each application's dependencies and local environment.
@@ -35,7 +35,7 @@ Do not commit environment files, secrets, local databases, virtual environments,
 
 ## First publication
 
-This repository was initialized locally. Once the GitHub repository exists and your account has write access, publish the local main branch with:
+To publish a local main branch to an empty remote for the first time, use:
 
 ```powershell
 git push -u origin main

@@ -85,3 +85,7 @@ This append-only log tracks project-owned file changes from its creation onward.
 - 2026-09-20T17:56:58-05:00 | Codex (/root) | Add Git clone, commit, and publishing instructions. | `GIT-README.md`
 
 - 2026-09-20T17:56:58-05:00 | Codex (/root) | Link the Git guide and configured GitHub remote. | `README.md`
+
+- 2026-09-20T18:03:07-05:00 | Codex (/root) | Update the GitHub repository link to jung-is. | `README.md`
+
+- 2026-09-20T18:03:07-05:00 | Codex (/root) | Update Git clone and publishing guidance for jung-is. | `GIT-README.md`
