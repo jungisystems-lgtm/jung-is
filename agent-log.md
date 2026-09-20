@@ -81,3 +81,7 @@ This append-only log tracks project-owned file changes from its creation onward.
 - 2026-09-20T13:53:58-05:00 | Codex (/root) | Correct the rendered path for the Django package initializer. | `backend/jung_api/__init__.py`
 
 - 2026-09-20T13:53:58-05:00 | Codex (/root) | Correct the rendered path for the test package initializer. | `backend/tests/__init__.py`
+
+- 2026-09-20T17:56:58-05:00 | Codex (/root) | Add Git clone, commit, and publishing instructions. | `GIT-README.md`
+
+- 2026-09-20T17:56:58-05:00 | Codex (/root) | Link the Git guide and configured GitHub remote. | `README.md`
